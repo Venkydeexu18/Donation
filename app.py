@@ -523,5 +523,5 @@ def delete_organization(email):
     return redirect(url_for('list_organizations'))
 
 
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
